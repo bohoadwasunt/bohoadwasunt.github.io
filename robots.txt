@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bohoadwasunt.github.io/sitemap.xml
